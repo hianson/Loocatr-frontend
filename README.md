@@ -2,11 +2,11 @@
 ### Synopsis
 Our number 1 priority is your number 2
 
-The loocatr is a mobile interface for users to find the nearest bathroom while on the go using the Yelp API. The app provides ratings, reviews, pictures, and accessiblity information allowing the user to find a bathroom that fits their needs.
+The loocatr is a mobile interface for users to find the nearest bathroom while on the go using the Yelp API. The app provides ratings, reviews, pictures, and accessibility information allowing the user to find a bathroom that fits their needs.
 
 ## Inspiration
 
-loocatr was inspired by the fact that I always have to use the restroom, and especially in big cities where I have a hard time finding one open to the plublic that is clean. The loocatr is also a way for people with chronic illness like crohns to feel a little less constrained and help them move through the city without the fear of not being near a bathroom they can use.
+Loocatr was created for users who need to use the restroom often, especially in big cities where clean public restrooms are difficult to find. Loocatr is also a way for people with illnesses such as Crohn's disease to feel a little less constrained, and to help them move through the city without the fear of not being near a bathroom they can use.
 
 ## Tech Stack
 
